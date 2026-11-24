@@ -1,0 +1,3 @@
+<!-- Tempel di ios/Runner/Info.plist, di dalam <dict> -->
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Lokasi dipakai untuk menampilkan cuaca di sekitar Anda.</string>
